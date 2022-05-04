@@ -1,0 +1,7 @@
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.csproj.AssemblyReference.cache
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.AssemblyInfoInputs.cache
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.AssemblyInfo.cs
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.csproj.CoreCompileInputs.cache
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp Training\autho-vue-sample\API\E-Commerce\E-Commerce\obj\Release\net6.0\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
